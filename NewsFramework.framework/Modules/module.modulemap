@@ -1,0 +1,6 @@
+framework module NewsFramework {
+  umbrella header "NewsFramework.h"
+
+  export *
+  module * { export * }
+}
